@@ -21,6 +21,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Paras Negi](https://github.com/ParasNegi88): _Five Facts about Value-Added Exports and Implications for Macroeconomics and  Trade Research_
 - [Cedric Walberger](https://github.com/cedricwalberger): _Constraints on City and Neighborhood Growth: The Central Role of Housing Supply_
 - [Ashifuddin Mandal](https://github.com/Ashifuddinmandal?tab=repositories): _Analyses Of LNG Plant Constructions Engineering Deliverables Progress, Planned & Forecast_
+- [Rutvik Fozdar](https://github.com/RutvikFozdar):Wealth Stratification and Portfolio Choice
 - [Yashashree Balwadkar](https://github.com/BalwadkarYashashree): _Brexit: The Economics of International Disintegration_
 - [Bahar Dabir](https://github.com/BaharDabir/): _Business Resilience During Covid-19_
 - [Benedikt Klutmann/Steffen Scherrer](https://github.com/BenFrese): _Unveiling the Enigma of Penalty Shootouts_
